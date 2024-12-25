@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415580373015",
+    "project_id": "human-body-measurement",
+    "storage_bucket": "human-body-measurement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415580373015:android:f3e5db8a40e67d85441c52",
+        "android_client_info": {
+          "package_name": "com.example.human_body_measurement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVE0HzOpZJW9QVZN2-xmnLBeFKM7_-7Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415580373015:android:dac84f9faf02ec10441c52",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVE0HzOpZJW9QVZN2-xmnLBeFKM7_-7Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
